@@ -16,7 +16,7 @@
 ### 현재 공부중인 내용
 <strong>2020년 7월 기준</strong>
 * 저는 "[입문~초급] 코딩 해볼래요? - 하루 11분, 60일 완성 Python 마스터"를 하고 있는 중입니다.
-![[입문~초급] 코딩 해볼래요? - 하루 11분, 60일 완성 Python 마스터](./images/Inflearn.png)
+![Inflearn_road_map](https://user-images.githubusercontent.com/59460979/89012511-50d06a80-d34d-11ea-8b2d-87a8e5337bcc.png)
 * https://www.inflearn.com/roadmaps/272
 
 목표는 올해 안으로 끝낼 예정입니다:)
