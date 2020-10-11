@@ -5,6 +5,9 @@
 </div>
 
 # (이력서)RESUME
+
+<img src=images/profile01.jpg height=300 weight=300>
+
 ## 박준영 | Park Junyeong
 ### 소개
 * 이름: 박준영
