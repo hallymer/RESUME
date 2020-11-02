@@ -16,6 +16,8 @@
 * blog : https://blog.naver.com/mu07246
 * youtube : https://www.youtube.com/user/mu072468
 * LinkedIn : https://www.linkedin.com/in/junyeong-park-2461071b4/
+
+![Github_commit](https://github.com/hallymer/RESUME/blob/master/images/Github%20commit%20contribution.PNG)
 **************************
 
 ### 🎓학력사항🎓
