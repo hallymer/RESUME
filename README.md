@@ -28,7 +28,7 @@
 * 주전공 : 빅데이터전공, 복수전공 : 스마트IOT전공
 **************************
 
-### :keyboard:프로그래밍 언어:keyboard:
+### :keyboard:프로그래밍 언어 스킬 목록:keyboard:
 * **Python**
 * **HTML**
 * **JAVA**
@@ -64,11 +64,17 @@
 
 <img src=https://github.com/hallymer/RESUME/blob/master/images/business%20card(Kor).png height=250 weight=250>
 
-<img src=https://github.com/hallymer/RESUME/blob/master/images/business%20card(Eng).png height=250 weight=250>
-
 * **자격증**
 
 **응급처치 강사 (Certificate of First Aid Instructor)**
 (2020.09.27 ~ 2025.09.26)
 
 <img src=https://github.com/hallymer/RESUME/blob/master/images/First%20Aid%20Instructor.jpg height=250 weight=250>
+
+**************************
+
+여기까지 읽어주셔서 감사합니다 :smile:
+
+부족한 부분이나 더 궁금하신 내용이 있다면 이슈로 남겨주시겨나, mu072468@gmail.com으로 연락주세요.
+
+감사합니다 :smile:
