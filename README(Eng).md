@@ -63,7 +63,7 @@ The goal is to finish within this year :)
 [Inflearn]: https://www.inflearn.com/
 **************************
 
-### :star:Extracurricular activities:star:
+### :star:Extramural activities:star:
 
 * **RCY(RedCrossYouth)**
 (2020.08.22 ~ 2021. Until the meeting)
