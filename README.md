@@ -8,9 +8,16 @@
 
 <img src=images/profile02.jpg height=300 weight=300>
 
-## 소개
+[![Junyeong Park's github stats](https://github-readme-stats.vercel.app/api?username=hallymer&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
+
+![Github_commit](https://github.com/hallymer/RESUME/blob/master/images/Github%20commit%20contribution.PNG)
+
+**************************
+
+## 👋소개👋
 * 이름 : 박준영
 * 군필여부 : 미필
+**************************
 
 ### 🌎사용하는 웹사이트🌎
 * [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mu072468@gmail.com)](mailto:mu072468@gmail.com) : mu072468@gmail.com
@@ -19,7 +26,6 @@
 * [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/junyeong-park-2461071b4)](https://linkedin.com/in/junyeong-park-2461071b4) : https://www.linkedin.com/in/junyeong-park-2461071b4/
 * blog : https://blog.naver.com/mu07246
 
-![Github_commit](https://github.com/hallymer/RESUME/blob/master/images/Github%20commit%20contribution.PNG)
 **************************
 
 ### 🎓학력사항🎓
