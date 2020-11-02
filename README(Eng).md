@@ -29,7 +29,7 @@
 * 주전공 : 빅데이터전공, 복수전공 : 스마트IOT전공
 **************************
 
-### :keyboard:프로그래밍 언어:keyboard:
+### :keyboard: Programming language skills list :keyboard:
 * **Python**
 * **HTML**
 * **JAVA**
@@ -37,15 +37,15 @@
 * R
 **************************
 
-### :computer:현재 공부중인 내용:computer:
-* "[입문~초급] 코딩 해볼래요? - 하루 11분, 60일 완성 Python 마스터"를 하고 있는 중입니다.
+### :computer:What I am currently studying:computer:
+* I'm studying "[입문~초급] 코딩 해볼래요? - 하루 11분, 60일 완성 Python 마스터"
 ![Inflearn_road_map](https://user-images.githubusercontent.com/59460979/89012511-50d06a80-d34d-11ea-8b2d-87a8e5337bcc.png)
 * https://www.inflearn.com/roadmaps/272
 
-목표는 올해 안으로 끝낼 예정입니다:)
+The goal is to finish within this year :)
 **************************
 
-**공부 사이트**
+**Programming study site**
 
 [Inflearn(인프런)][Inflearn]
 
@@ -58,18 +58,18 @@
 [Inflearn]: https://www.inflearn.com/
 **************************
 
-### :star:교외 활동:star:
+### :star:Extracurricular activities:star:
 
 * **RCY(RedCrossYouth)**
-(2020.08.22 ~ 2021. 회의시까지)
+(2020.08.22 ~ 2021. Until the meeting)
 
 <img src=https://github.com/hallymer/RESUME/blob/master/images/business%20card(Kor).png height=250 weight=250>
 
 <img src=https://github.com/hallymer/RESUME/blob/master/images/business%20card(Eng).png height=250 weight=250>
 
-* **자격증**
+* **Certificate**
 
-**응급처치 강사 (Certificate of First Aid Instructor)**
+**Certificate of First Aid Instructor**
 (2020.09.27 ~ 2025.09.26)
 
 <img src=https://github.com/hallymer/RESUME/blob/master/images/First%20Aid%20Instructor.jpg height=250 weight=250>
