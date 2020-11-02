@@ -1,12 +1,12 @@
 <div align = center>
  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhallymer)](https://hits.seeyoufarm.com) 
-![GitHub last commit](https://img.shields.io/github/last-commit/hallymer/hallymer)
+![GitHub last commit](https://img.shields.io/github/last-commit/hallymer/resume)
 </div>
 
 # (이력서)RESUME
 
-<img src=images/profile01.jpg height=300 weight=300>
+<img src=images/profile02.jpg height=300 weight=300>
 
 ## 박준영 | Park Junyeong
 ### 소개
@@ -15,6 +15,7 @@
 * GitHub: https://github.com/hallymer
 * blog : https://blog.naver.com/mu07246
 * youtube : https://www.youtube.com/user/mu072468
+* LinkedIn : https://www.linkedin.com/in/junyeong-park-2461071b4/
 **************************
 
 ### 🎓학력사항🎓
@@ -42,3 +43,5 @@
 [Goorm]: https://edu.goorm.io/
 [Inflearn]: https://www.inflearn.com/
 **************************
+**:star:교외 활동:star:**
+
