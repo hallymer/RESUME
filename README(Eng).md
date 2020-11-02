@@ -23,7 +23,7 @@
 ![Github_commit](https://github.com/hallymer/RESUME/blob/master/images/Github%20commit%20contribution.PNG)
 **************************
 
-### 🎓학력사항🎓
+### 🎓Educational History🎓
 * Graduated from Wonju High School (2016.03 ~2019.01)
 * Hallym University Big Data Major, 2nd year student (2019.02 ~ currently)
 * Major : Big Data, Double major : Smart IOT
@@ -63,8 +63,6 @@ The goal is to finish within this year :)
 * **RCY(RedCrossYouth)**
 (2020.08.22 ~ 2021. Until the meeting)
 
-<img src=https://github.com/hallymer/RESUME/blob/master/images/business%20card(Kor).png height=250 weight=250>
-
 <img src=https://github.com/hallymer/RESUME/blob/master/images/business%20card(Eng).png height=250 weight=250>
 
 * **Certificate**
@@ -73,3 +71,11 @@ The goal is to finish within this year :)
 (2020.09.27 ~ 2025.09.26)
 
 <img src=https://github.com/hallymer/RESUME/blob/master/images/First%20Aid%20Instructor.jpg height=250 weight=250>
+
+**************************
+
+**Thanks for reading this far :smile:**
+
+**If you have any shortcomings or more questions, please leave it as an issue, but please contact us at mu072468@gmail.com.**
+
+**Thank you.:smile:**
