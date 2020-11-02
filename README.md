@@ -8,9 +8,11 @@
 
 <img src=images/profile02.jpg height=300 weight=300>
 
-## 박준영
-### 소개
+## 소개
 * 이름 : 박준영
+* 군필여부 : 미필
+
+### 🌎사용하는 웹사이트🌎
 * [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mu072468@gmail.com)](mailto:mu072468@gmail.com) : mu072468@gmail.com
 * [![Git Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/hallymer)](https://github.com/hallymer) : https://github.com/hallymer
 * [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/user/mu072468/featured?view_as=subscriber)](https://www.youtube.com/user/mu072468/featured?view_as=subscriber) : https://www.youtube.com/user/mu072468
