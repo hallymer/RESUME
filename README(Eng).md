@@ -8,7 +8,13 @@
 
 <img src=images/profile02.jpg height=300 weight=300>
 
-### Introduction
+[![Junyeong Park's github stats](https://github-readme-stats.vercel.app/api?username=hallymer&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
+
+![Github_commit](https://github.com/hallymer/RESUME/blob/master/images/Github%20commit%20contribution.PNG)
+
+**************************
+
+### 👋Introduction👋
 * Name : Park Junyeong
 * Military service : unfulfilled
 **************************
@@ -20,7 +26,6 @@
 * [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/junyeong-park-2461071b4)](https://linkedin.com/in/junyeong-park-2461071b4) : https://www.linkedin.com/in/junyeong-park-2461071b4/
 * blog : https://blog.naver.com/mu07246
 
-![Github_commit](https://github.com/hallymer/RESUME/blob/master/images/Github%20commit%20contribution.PNG)
 **************************
 
 ### 🎓Educational History🎓
@@ -74,7 +79,7 @@ The goal is to finish within this year :)
 
 **************************
 
-**Thanks for reading this far :smile:**
+**Thanks for reading this far :laughing:**
 
 **If you have any shortcomings or more questions, please leave it as an issue, but please contact us at mu072468@gmail.com.**
 
