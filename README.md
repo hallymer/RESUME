@@ -4,11 +4,13 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/hallymer/resume)
 </div>
 
-# 이력서(RESUME)
+# 이력서
+
+![English Resume](https://github.com/hallymer/RESUME/blob/master/README(Eng).md)
 
 <img src=images/profile02.jpg height=300 weight=300>
 
-## 박준영 | Park Junyeong
+## 박준영
 ### 소개
 * 이름: 박준영
 * Email: mu072468@gmail.com
