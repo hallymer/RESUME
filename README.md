@@ -4,7 +4,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/hallymer/resume)
 </div>
 
-# (이력서)RESUME
+# 이력서(RESUME)
 
 <img src=images/profile02.jpg height=300 weight=300>
 
@@ -23,6 +23,15 @@
 ### 🎓학력사항🎓
 * 원주고등학교 졸업 (2016.03 ~2019.01)
 * 한림대학교 빅데이터전공 2학년 재학 (2019.02 ~ 현재)
+* 주전공 : 빅데이터전공, 복수전공 : 스마트IOT전공
+**************************
+
+### :keyboard:프로그래밍 언어:keyboard:
+* **Python**
+* **HTML**
+* **JAVA**
+* CSS/Javascript
+* R
 **************************
 
 ### :computer:현재 공부중인 내용:computer:
@@ -45,5 +54,11 @@
 [Goorm]: https://edu.goorm.io/
 [Inflearn]: https://www.inflearn.com/
 **************************
-**:star:교외 활동:star:**
+
+### :star:교외 활동:star:
+
+**RCY(RedCrossYouth)**
+(2020.08.22 ~ 2021. 회의시까지)
+![business card_korea](https://github.com/hallymer/RESUME/blob/master/images/business%20card.png)
+**자격증**
 
