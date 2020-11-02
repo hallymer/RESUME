@@ -57,8 +57,16 @@
 
 ### :star:교외 활동:star:
 
-**RCY(RedCrossYouth)**
+* **RCY(RedCrossYouth)**
 (2020.08.22 ~ 2021. 회의시까지)
-![business card_korea](https://github.com/hallymer/RESUME/blob/master/images/business%20card.png)
-**자격증**
 
+<img src=https://github.com/hallymer/RESUME/blob/master/images/business%20card(Kor).png height=250 weight=250>
+
+<img src=https://github.com/hallymer/RESUME/blob/master/images/business%20card(Eng).png height=250 weight=250>
+
+* **자격증**
+
+**응급처치 강사 (Certificate of First Aid Instructor)**
+(2020.09.27 ~ 2025.09.26)
+
+<img src=https://github.com/hallymer/RESUME/blob/master/images/First%20Aid%20Instructor.jpg height=250 weight=250>
