@@ -24,9 +24,9 @@
 **************************
 
 ### 🎓학력사항🎓
-* 원주고등학교 졸업 (2016.03 ~2019.01)
-* 한림대학교 빅데이터전공 2학년 재학 (2019.02 ~ 현재)
-* 주전공 : 빅데이터전공, 복수전공 : 스마트IOT전공
+* Graduated from Wonju High School (2016.03 ~2019.01)
+* Hallym University Big Data Major, 2nd year student (2019.02 ~ currently)
+* Major : Big Data, Double major : Smart IOT
 **************************
 
 ### :keyboard: Programming language skills list :keyboard:
