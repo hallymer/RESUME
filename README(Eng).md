@@ -14,8 +14,8 @@
 **************************
 
 ### Using Website
-* [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mu072468@gmail.com)](mailto:mu072468@gmail.com): mu072468@gmail.com
-* [![Git Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/hallymer)](https://github.com/hallymer): https://github.com/hallymer
+* [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mu072468@gmail.com)](mailto:mu072468@gmail.com) : mu072468@gmail.com
+* [![Git Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/hallymer)](https://github.com/hallymer) : https://github.com/hallymer
 * [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/user/mu072468/featured?view_as=subscriber)](https://www.youtube.com/user/mu072468/featured?view_as=subscriber) : https://www.youtube.com/user/mu072468
 * [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/junyeong-park-2461071b4)](https://linkedin.com/in/junyeong-park-2461071b4) : https://www.linkedin.com/in/junyeong-park-2461071b4/
 * blog : https://blog.naver.com/mu07246
