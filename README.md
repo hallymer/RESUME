@@ -6,18 +6,18 @@
 
 # 이력서
 
-![English Resume](https://github.com/hallymer/RESUME/blob/master/README(Eng).md)
+[![English Resume](https://img.shields.io/static/v1?label=English&message=Resume&color=yellow&link=https://github.com/hallymer/RESUME/blob/master/README(Eng).md)](https://github.com/hallymer/RESUME/blob/master/README(Eng).md)
 
 <img src=images/profile02.jpg height=300 weight=300>
 
 ## 박준영
 ### 소개
 * 이름: 박준영
-* Email: mu072468@gmail.com
-* GitHub: https://github.com/hallymer
+* [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mu072468@gmail.com)](mailto:mu072468@gmail.com): mu072468@gmail.com
+* [![Git Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/hallymer)](https://github.com/hallymer): https://github.com/hallymer
+* [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/user/mu072468/featured?view_as=subscriber)](https://www.youtube.com/user/mu072468/featured?view_as=subscriber) : https://www.youtube.com/user/mu072468
+* [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/junyeong-park-2461071b4)](https://linkedin.com/in/junyeong-park-2461071b4) : https://www.linkedin.com/in/junyeong-park-2461071b4/
 * blog : https://blog.naver.com/mu07246
-* youtube : https://www.youtube.com/user/mu072468
-* LinkedIn : https://www.linkedin.com/in/junyeong-park-2461071b4/
 
 ![Github_commit](https://github.com/hallymer/RESUME/blob/master/images/Github%20commit%20contribution.PNG)
 **************************
