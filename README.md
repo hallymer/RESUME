@@ -4,7 +4,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/hallymer/resume)
 </div>
 
-# 이력서 (Here is English Resume) :arrow_right: [![English Resume](https://img.shields.io/static/v1?label=English&message=Resume&color=yellow&link=https://github.com/hallymer/RESUME/blob/master/README(Eng).md)](https://github.com/hallymer/RESUME/blob/master/README(Eng).md)
+# 이력서 :arrow_right: [![English Resume](https://img.shields.io/static/v1?label=English&message=Resume&color=yellow&link=https://github.com/hallymer/RESUME/blob/master/README(Eng).md)](https://github.com/hallymer/RESUME/blob/master/README(Eng).md)
 
 <img src=images/profile02.jpg height=300 weight=300>
 
@@ -42,12 +42,18 @@
 * R
 **************************
 
-### :computer:현재 공부중인 내용:computer:
+### :computer:현재 공부중인 내용 및 계획:computer:
 * "[입문~초급] 코딩 해볼래요? - 하루 11분, 60일 완성 Python 마스터"를 하고 있는 중입니다.
 ![Inflearn_road_map](https://user-images.githubusercontent.com/59460979/89012511-50d06a80-d34d-11ea-8b2d-87a8e5337bcc.png)
 * https://www.inflearn.com/roadmaps/272
 
 목표는 올해 안으로 끝낼 예정입니다:)
+<br><br>
+* 네이버 블로그에 있는 [Sourcetree][naverblog]에 내용 중 **8.브랜치 이용하기**, **9.병합하기** 글을 작성한 뒤<br>
+더 많은 사람들이 볼 수 있도록 [Github Blog][Git blog]에 옮길 예정입니다! 
+
+[naverblog]: https://blog.naver.com/mu07246/222050048148
+[Git blog]: https://hallymer.github.io/
 **************************
 
 **공부 사이트**
