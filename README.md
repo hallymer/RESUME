@@ -49,7 +49,7 @@
 
 목표는 올해 안으로 끝낼 예정입니다:)
 <br><br>
-* 네이버 블로그에 있는 [Sourcetree][naverblog]에 내용 중 **8.브랜치 이용하기**, **9.병합하기** 글을 작성한 뒤<br>
+* 네이버 블로그에 있는 [Sourcetree][naverblog]에 내용 중 **8.브랜치 이용하기**, **9.병합하기** 글을 작성한 뒤,<br>
 더 많은 사람들이 볼 수 있도록 [Github Blog][Git blog]에 옮길 예정입니다! 
 
 [naverblog]: https://blog.naver.com/mu07246/222050048148
