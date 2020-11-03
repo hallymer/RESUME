@@ -16,7 +16,8 @@
 
 ### 👋Introduction👋
 * Name : Park Junyeong
-* Military service : unfulfilled
+* English name : Chris
+* Military service : Unfulfilled
 **************************
 
 ### 🌎Using Website🌎
