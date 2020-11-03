@@ -69,7 +69,19 @@ I'll be moving it to the [Github Blog][Git blog] for more people to see it!
 [Goorm]: https://edu.goorm.io/
 [Inflearn]: https://www.inflearn.com/
 **************************
+### :star:School activities:star:
+* **contest**
+**2019 CAMPUS LIFE Contest**
+**Hey! You can do Hallymer too**<br>Produced a video introducing Hallym University to high school candidates
+<img src=https://github.com/hallymer/RESUME/blob/master/images/CampusLife%20contest.jpg height=300 weight=300>
 
+[CAMPUS LIFE Contest Information][CampusLife Information]
+
+[CAMPUS LIFE Contest Winners Announcement][CampusLife Announcement]
+
+[CampusLife Information]:https://www.hallym.ac.kr/hallym_univ/sub05/cP3/sCP1.html?action=read&nttId=16311400&pageIndex=1&searchCnd=&searchWrd=Campus
+[CampusLife Announcement]:https://www.hallym.ac.kr/hallym_univ/sub05/cP3/sCP1.html?action=read&nttId=16311674&pageIndex=1&searchType=0&searchWrd=Campus
+**************************
 ### :star:Extramural activities:star:
 
 * **RCY(RedCrossYouth)**
