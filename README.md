@@ -4,8 +4,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/hallymer/resume)
 </div>
 
-# 이력서 
-### Here is **English Resume**::arrow_right:[![English Resume](https://img.shields.io/static/v1?label=English&message=Resume&color=yellow&link=https://github.com/hallymer/RESUME/blob/master/README(Eng).md)](https://github.com/hallymer/RESUME/blob/master/README(Eng).md)
+# 이력서 (Here is English Resume) :arrow_right: [![English Resume](https://img.shields.io/static/v1?label=English&message=Resume&color=yellow&link=https://github.com/hallymer/RESUME/blob/master/README(Eng).md)](https://github.com/hallymer/RESUME/blob/master/README(Eng).md)
 
 <img src=images/profile02.jpg height=300 weight=300>
 
