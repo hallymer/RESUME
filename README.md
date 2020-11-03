@@ -68,6 +68,20 @@
 [Programmers]: https://programmers.co.kr/learn
 [Goorm]: https://edu.goorm.io/
 [Inflearn]: https://www.inflearn.com/
+
+**************************
+### :star:교내 활동:star:
+* **공모전**
+**2019 CAMPUS LIFE 콘텐츠 공모전**
+**야! 너도 Hallymer 할 수 있어**라는 주제로<br>고교 수험생에게 한림대학교를 소개하는 영상을 제작함
+<img src=https://github.com/hallymer/RESUME/blob/master/images/CampusLife%20contest.jpg height=300 weight=300>
+
+[CAMPUS LIFE 콘텐츠 공모전 안내][CampusLife 안내]
+
+[CAMPUS LIFE 콘텐츠 공모전 당선작 발표][CampusLife 발표]
+
+[CampusLife 안내]:https://www.hallym.ac.kr/hallym_univ/sub05/cP3/sCP1.html?action=read&nttId=16311400&pageIndex=1&searchCnd=&searchWrd=Campus
+[CampusLife 발표]:https://www.hallym.ac.kr/hallym_univ/sub05/cP3/sCP1.html?action=read&nttId=16311674&pageIndex=1&searchType=0&searchWrd=Campus
 **************************
 
 ### :star:교외 활동:star:
