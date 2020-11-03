@@ -42,12 +42,18 @@
 * R
 **************************
 
-### :computer:What I am currently studying:computer:
+### :computer:What I am currently studying and plan:computer:
 * I'm studying "[입문~초급] 코딩 해볼래요? - 하루 11분, 60일 완성 Python 마스터"
 ![Inflearn_road_map](https://user-images.githubusercontent.com/59460979/89012511-50d06a80-d34d-11ea-8b2d-87a8e5337bcc.png)
 * https://www.inflearn.com/roadmaps/272
 
 The goal is to finish within this year :)
+<br><br>
+* After writing **8. Using Branch**, **9. Merging** in Sourcetree on the [Naver Blog][naverblog],<br>
+I'll be moving it to the [Github Blog][Git blog] for more people to see it!
+
+[naverblog]: https://blog.naver.com/mu07246/222050048148
+[Git blog]: https://hallymer.github.io/
 **************************
 
 **Programming study site**
