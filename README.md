@@ -98,6 +98,8 @@
 
 <img src=https://github.com/hallymer/RESUME/blob/master/images/First%20Aid%20Instructor.jpg height=250 weight=250>
 
+GTQ자격증(취득예정)
+
 **************************
 
 **여기까지 읽어주셔서 감사합니다 :laughing:**
