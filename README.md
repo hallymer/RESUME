@@ -99,6 +99,7 @@
 <img src=https://github.com/hallymer/RESUME/blob/master/images/First%20Aid%20Instructor.jpg height=250 weight=250>
 
 GTQ, GTQi자격증(취득예정)
+리눅스마스터 2급(취득예정)
 
 **************************
 
