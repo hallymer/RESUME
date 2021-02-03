@@ -96,7 +96,7 @@ I'll be moving it to the [Github Blog][Git blog] for more people to see it!
 
 <img src=https://github.com/hallymer/RESUME/blob/master/images/First%20Aid%20Instructor.jpg height=250 weight=250>
 
-GTQ, GTQi certificate (to be acquired)
+GTQ, GTQi, Linux master Level2 certificate (to be acquired)
 **************************
 
 **Thanks for reading this far :laughing:**
