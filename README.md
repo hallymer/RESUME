@@ -67,12 +67,15 @@
 ## 주요 프로젝트
 * 빅데이터개론 (2024-2학기 진행 중)
 * Link-3.0 캡스톤 디자인 [여우별 : 기숙사 화재감시 시스템][codeburner]
-* 운영체제
-* 오픈소스하드웨어
-* 데이터사이언스기초
-* 파이썬과학프로그래밍기초
+* 운영체제 - [다중 클라이언트 채팅 프로그램][2024_OS]
+* 오픈소스하드웨어 - SMART FARM
+* 임베디드시스템 - IoT서비스 + CoAP 메시지 교환 구현
+* 파이썬과학프로그래밍기초 - tkinter를 활용한 프로그램 제작
+
+(오픈소스하드웨어, 임베디드시스템, 파이썬과학프로그래밍기초 등 추후에 조금씩 정리해서 올릴 예정)
 
 [codeburner]: https://github.com/Codeburner2024
+[2024_OS]: https://github.com/hallymer/2024_Operating_System
 **************************
 
 ## :computer:현재 공부중인 내용 및 계획:computer:
@@ -80,6 +83,7 @@
 *  코멘토 직무부트캠프 - [금융 IT 공기업 현직자와 함께하는 Linux기반 IT 운영 실무 경험!][comento]
 
 <br>
+
 * 네이버 블로그에 있는 [Sourcetree][naverblog]에 내용 중 **8.브랜치 이용하기**, **9.병합하기** 글을 작성한 뒤,<br>
 더 많은 사람들이 볼 수 있도록 [Github Blog][Git blog]에 옮길 예정입니다! 
 
@@ -108,7 +112,7 @@
 * 한림대학교 개교 41주년 학교를 빛낸 학생 Service 총장 표창장 수상
 * 2학기 학생생활관 보조사감
 * SW봉사단 단원
-* 안재목교수님 연구실 입성 및 안전관리담당자
+* 안재목교수님 연구실 학부연구생 및 안전관리담당자
 * 3학년 2학기 학기우등 (4.07)
 
 ### 2024
@@ -182,13 +186,13 @@
 
 **📚추가적으로 공부하는 사이트📚**
 
-> [Inflearn(인프런)][Inflearn]
+- [Inflearn(인프런)][Inflearn]
 
-> [comento(코멘토)][comento]
+- [comento(코멘토)][comento]
 
-> [GoormEDU(구름 에듀)][Goorm]
+- [GoormEDU(구름 에듀)][Goorm]
 
-> [Programmers(프로그래머스)][Programmers]
+- [Programmers(프로그래머스)][Programmers]
 
 [Programmers]: https://programmers.co.kr/learn
 [Goorm]: https://edu.goorm.io/
