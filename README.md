@@ -67,8 +67,16 @@
 ## 주요 프로젝트
 * 빅데이터개론 (2024-2학기 진행 중)
 * Link-3.0 캡스톤 디자인 [여우별 : 기숙사 화재감시 시스템][codeburner]
+  - 기술 : 
+  - 구현 부분 : 
+  - 힘들었던 점 :
+  - 배웠던 점 : 
 * 운영체제 - [다중 클라이언트 채팅 프로그램][2024_OS]
 * 오픈소스하드웨어 - SMART FARM
+  - 기술 : 
+  - 구현 부분 : 
+  - 힘들었던 점 :
+  - 배웠던 점 : 
 * 임베디드시스템 - IoT서비스 + CoAP 메시지 교환 구현
 * 파이썬과학프로그래밍기초 - tkinter를 활용한 프로그램 제작
 
@@ -134,10 +142,10 @@
   
 ### 2019
 * Global Humanitarian Leader Project (대한적십자사, 2019.01.25 ~ 02.01, 유럽)
-* 2019 Summer Camp Gathering for East Asia RCY (대한적십자사, 2019.07.20 ~ 29, 몽골)
+* [2019 Summer Camp Gathering for East Asia RCY][2019_Summer_Camp] (대한적십자사, 2019.07.20 ~ 29, 몽골)
   
 ### 2020
-* 삼성 지정기탁 청소년 멘토링 해외봉사활동 (대한적십자사, 2020.01.09 ~ 16, 인도네시아)
+* [삼성 지정기탁 청소년 멘토링 해외봉사활동][2019_RCY_Overseas_Volunteer] (대한적십자사, 2020.01.09 ~ 16, 인도네시아)
 * 대한적십자사 강원도협의회 대학 RCY 회장 선임
 * 대한적십자사 대학 RCY 참여위원회 위원장 선임
 
@@ -148,16 +156,20 @@
 * 병장 만기전역 (2022)
   
 ### 2023 
-* 삼성 지정기탁 청소년 멘토링 해외봉사활동 (대한적십자사, 2023.02.20 ~ 27, 베트남)
+* [삼성 지정기탁 청소년 멘토링 해외봉사활동][2023_RCY_Overseas_Volunteer] (대한적십자사, 2023.02.20 ~ 27, 베트남)
 * 강원랜드 하이원 워터월드 체험형인턴 수료
-* 2023 Summer Camp Gathering for East Asia RCY (대한적십자사, 2023.07.22 ~ 29, 몽골)
+* [2023 Summer Camp Gathering for East Asia RCY][2023_Summer_Camp] (대한적십자사, 2023.07.22 ~ 29, 몽골)
 * 대한적십자사 수상안전강사활동 시작 (23.09. ~ )
   
 ### 2024
 * 대한적십자사 강원특별자치도협의회 대학 RCY 부회장 선임
 * 강원특별자치도교육청학생교육원 카누 안전요원 활동
 * [한국과학창의재단x엘리스그룹][linkareer] 2024년 청소년 SW동행 프로젝트 멘토링 멘토
-  
+
+  [2023_Summer_Camp]: https://youtu.be/tMjgbR3L9tE?si=0gHNZZH0aQ8T3zhg
+  [2023_RCY_Overseas_Volunteer]: https://youtu.be/UKoKvCnmHT0?si=ZTCKI9B877UYD040
+  [2019_Summer_Camp]: https://youtu.be/xE91ulpb9LI?si=MofZbJe48T0Ti-79
+  [2019_RCY_Overseas_Volunteer]: https://youtu.be/JlA7bC7VAU0?si=vd4PxuqwXFmIoWO7
   [linkareer]: https://linkareer.com/activity/190713
   
 **************************
